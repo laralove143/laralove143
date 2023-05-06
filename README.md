@@ -1,1 +1,2 @@
-[![lara's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&hide=shell&langs_count=10)](https://github.com/laralove143)
+[![lara's top langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&hide=shell&langs_count=10#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![lara's top langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&hide=shell&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
