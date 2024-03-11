@@ -8,7 +8,7 @@
 
 # hii
 
-im lara, a 19 yo nonbinary uni student at [metu](https://www.metu.edu.tr) trying to code despite my adhd, nice to meet u!
+im lara, a 20 yo nonbinary uni student at [metu](https://www.metu.edu.tr) trying to code despite my adhd, nice to meet u!
 
 # stuff i do
 
