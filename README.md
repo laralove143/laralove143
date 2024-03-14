@@ -70,30 +70,18 @@ ___
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=laralove143&show=reviews&show_icons=true&custom_title=GitHub%20Stats&ring_color=d0e7d2&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&&border_color=d0e7d2&bg_color=618264&border_radius=32"
-    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=laralove143&show=reviews&show_icons=true&custom_title=GitHub%20Stats&ring_color=d0e7d2&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&border_color=d0e7d2&bg_color=618264&border_radius=32"
+    media="(prefers-color-scheme: dark)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=laralove143&show=reviews&show_icons=true&custom_title=GitHub%20Stats&ring_color=d0e7d2&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&border_color=d0e7d2&bg_color=618264&border_radius=32" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=laralove143&show=reviews&show_icons=true&custom_title=GitHub%20Stats&ring_color=618264&title_color=618264&text_color=79ac78&icon_color=618264&border_color=618264&bg_color=d0e7d2&border_radius=32" />
 </picture>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag&layout=donut&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&border_color=d0e7d2&bg_color=618264&border_radius=32"
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag&layout=donut&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&&border_color=d0e7d2&bg_color=618264&border_radius=32" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag&layout=donut&title_color=618264&text_color=79ac78&icon_color=618264&border_color=618264&bg_color=d0e7d2&border_radius=32" />
 </picture>
-
-<a href=".#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=laralove143&show=reviews&show_icons=true&custom_title=GitHub%20Stats&ring_color=d0e7d2&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&&border_color=d0e7d2&bg_color=618264&border_radius=32#gh-light-mode-only" />
-</a>
-<a href=".#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag&layout=donut&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&border_color=d0e7d2&bg_color=618264&border_radius=32#gh-light-mode-only" />
-</a>
-<a href=".#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=laralove143&show=reviews&show_icons=true&custom_title=GitHub%20Stats&ring_color=d0e7d2&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&border_color=d0e7d2&bg_color=618264&border_radius=32#gh-dark-mode-only" />
-<a href=".#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag&layout=donut&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&&border_color=d0e7d2&bg_color=618264&border_radius=32#gh-dark-mode-only" />
-</a>
 
 ___
 
