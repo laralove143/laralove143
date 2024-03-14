@@ -23,8 +23,8 @@ ___
   </summary>
   <br>
   
-  [![Snapchat](https://img.shields.io/badge/Snapchat-C9C700.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://t.snapchat.com/8jOrnSVl)
-  [![Genius](https://img.shields.io/badge/Genius-C6C600.svg?style=for-the-badge&logo=Genius&logoColor=white)](https://genius.com/laralove143)
+  [![Snapchat](https://img.shields.io/badge/Snapchat-c9c700.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://t.snapchat.com/8jOrnSVl)
+  [![Genius](https://img.shields.io/badge/Genius-c6c600.svg?style=for-the-badge&logo=Genius&logoColor=white)](https://genius.com/laralove143)
 </details>
 
 ___
@@ -57,12 +57,12 @@ ___
   </summary>
   <br>
   
-  [![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://www.gnu.org/software/bash)
-  [![systemd](https://img.shields.io/badge/systemd-30D475.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSI2NC4wMDAzIDc0LjAwMiAxNzEuOTk5NiA1MS45OTk5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxnIHRyYW5zZm9ybT0ibWF0cml4KDEuMzMzMzMwMDM1MjA5NjU1OCwgMCwgMCwgMS4zMzMzMzAwMzUyMDk2NTU4LCAzMC42NjY5OTk4MTY4OTQ1MywgLTExNDEuNDc0OTc1NTg1OTM3NSkiPgogICAgPHBhdGggZD0iTTI1IDkxMS42MXYzOWgxNXYtNmgtOXYtMjdoOXYtNnptMTE0IDB2Nmg5djI3aC05djZoMTV2LTM5eiIgc3R5bGU9ImxpbmUtaGVpZ2h0OiBub3JtYWw7IGZvbnQtdmFyaWFudC1saWdhdHVyZXM6IG5vcm1hbDsgZm9udC12YXJpYW50LXBvc2l0aW9uOiBub3JtYWw7IGZvbnQtdmFyaWFudC1jYXBzOiBub3JtYWw7IGZvbnQtdmFyaWFudC1udW1lcmljOiBub3JtYWw7IGZvbnQtdmFyaWFudC1hbHRlcm5hdGVzOiBub3JtYWw7IGZvbnQtZmVhdHVyZS1zZXR0aW5nczogbm9ybWFsOyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LWFsaWduOiBzdGFydDsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LWRlY29yYXRpb24tc3R5bGU6IHNvbGlkOyB0ZXh0LWRlY29yYXRpb24tY29sb3I6IHJnYigwLCAwLCAwKTsgdGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtb3JpZW50YXRpb246IG1peGVkOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBpc29sYXRpb246IGF1dG87IG1peC1ibGVuZC1tb2RlOiBub3JtYWw7IGZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsiIGNvbG9yPSIjMDAwIiBmb250LXdlaWdodD0iNDAwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgb3ZlcmZsb3c9InZpc2libGUiLz4KICAgIDxwYXRoIGQ9Ik05Mi41IDkzMS4xMWwyNy0xNXYzMHoiIHN0eWxlPSJmaWxsOiByZ2IoMjU1LCAyNTUsIDI1NSk7Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MC4wMDIiIGN5PSI5MzEuMTExIiByPSIxMy41IiBzdHlsZT0iZmlsbDogcmdiKDI1NSwgMjU1LCAyNTUpOyIvPgogIDwvZz4KPC9zdmc+)](https://systemd.io)
+  [![Bash](https://img.shields.io/badge/GNU%20Bash-4eaa25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://www.gnu.org/software/bash)
+  [![systemd](https://img.shields.io/badge/systemd-30d475.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSI2NC4wMDAzIDc0LjAwMiAxNzEuOTk5NiA1MS45OTk5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxnIHRyYW5zZm9ybT0ibWF0cml4KDEuMzMzMzMwMDM1MjA5NjU1OCwgMCwgMCwgMS4zMzMzMzAwMzUyMDk2NTU4LCAzMC42NjY5OTk4MTY4OTQ1MywgLTExNDEuNDc0OTc1NTg1OTM3NSkiPgogICAgPHBhdGggZD0iTTI1IDkxMS42MXYzOWgxNXYtNmgtOXYtMjdoOXYtNnptMTE0IDB2Nmg5djI3aC05djZoMTV2LTM5eiIgc3R5bGU9ImxpbmUtaGVpZ2h0OiBub3JtYWw7IGZvbnQtdmFyaWFudC1saWdhdHVyZXM6IG5vcm1hbDsgZm9udC12YXJpYW50LXBvc2l0aW9uOiBub3JtYWw7IGZvbnQtdmFyaWFudC1jYXBzOiBub3JtYWw7IGZvbnQtdmFyaWFudC1udW1lcmljOiBub3JtYWw7IGZvbnQtdmFyaWFudC1hbHRlcm5hdGVzOiBub3JtYWw7IGZvbnQtZmVhdHVyZS1zZXR0aW5nczogbm9ybWFsOyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LWFsaWduOiBzdGFydDsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LWRlY29yYXRpb24tc3R5bGU6IHNvbGlkOyB0ZXh0LWRlY29yYXRpb24tY29sb3I6IHJnYigwLCAwLCAwKTsgdGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtb3JpZW50YXRpb246IG1peGVkOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBpc29sYXRpb246IGF1dG87IG1peC1ibGVuZC1tb2RlOiBub3JtYWw7IGZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsiIGNvbG9yPSIjMDAwIiBmb250LXdlaWdodD0iNDAwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgb3ZlcmZsb3c9InZpc2libGUiLz4KICAgIDxwYXRoIGQ9Ik05Mi41IDkzMS4xMWwyNy0xNXYzMHoiIHN0eWxlPSJmaWxsOiByZ2IoMjU1LCAyNTUsIDI1NSk7Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MC4wMDIiIGN5PSI5MzEuMTExIiByPSIxMy41IiBzdHlsZT0iZmlsbDogcmdiKDI1NSwgMjU1LCAyNTUpOyIvPgogIDwvZz4KPC9zdmc+)](https://systemd.io)
   [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)](https://github.com/features/actions)
-  [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
-  [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://cloud.google.com)
-  [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4.svg?style=for-the-badge&logo=Google-Apps-Script&logoColor=white)](https://workspace.google.com/products/apps-script)
+  [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078d4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
+  [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://cloud.google.com)
+  [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285f4.svg?style=for-the-badge&logo=Google-Apps-Script&logoColor=white)](https://workspace.google.com/products/apps-script)
   [![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)](https://unity.com)
 </details>
 
