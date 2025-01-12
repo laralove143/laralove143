@@ -2,7 +2,7 @@
 
 # 👋👋👋👋👋
 
-Hello! I'm Lara, a 20 years old non-binary university student at [METU](https://www.metu.edu.tr) trying to code despite my ADHD, nice to meet you!
+Hello! I'm Lara, a 21 years old non-binary university student at [METU](https://www.metu.edu.tr) trying to code despite my ADHD, nice to meet you!
 
 [![Github Sponsors](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://github.com/sponsors/laralove143)
 
@@ -91,7 +91,9 @@ ___
 
 In the team of [Twilight](https://github.com/twilight-rs/twilight), a Discord library for the [Rust programming language](https://www.rust-lang.org)
 
-Volunteer at [ÜNOG](https://unog.dev), an organization of university student game developers
+HR responsible of [Board of European Students of Technology](https://best.eu.org) IT Department
+
+Past volunteer at [ÜNOG](https://unog.dev), an organization of university student game developers
 
 ___
 
