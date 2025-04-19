@@ -2,7 +2,7 @@
 
 # 👋👋👋👋👋
 
-Hello! I'm Lara, a 21 years old non-binary university student at [METU](https://www.metu.edu.tr) trying to code despite my ADHD, nice to meet you!
+Hello! I'm Lara, a 21 years old non-binary university student at [METU](https://metu.edu.tr) trying to code despite my ADHD, nice to meet you!
 
 [![Github Sponsors](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://github.com/sponsors/laralove143)
 
@@ -31,25 +31,25 @@ ___
 
 # 🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻
 
-[![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)](https://wikipedia.org/wiki/HTML)
-[![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)](https://wikipedia.org/wiki/CSS)
-[![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)](https://tailwindcss.com)
-[![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)](https://getbootstrap.com)
-[![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)](https://wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)](https://www.typescriptlang.org)
-[![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)](https://nodejs.org)
-
 [![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg)](https://www.rust-lang.org)
-[![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg)](https://go.dev)
-[![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)](https://dotnet.microsoft.com/languages/csharp)
 [![Swift](https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift1.svg)](https://www.swift.org)
 [![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)](https://www.python.org)
+[![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg)](https://go.dev)
+[![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)](https://dotnet.microsoft.com/languages/csharp)
 
 [![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)](https://www.postgresql.org)
 [![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg)](https://www.sqlite.org)
 
 [![Cloudflare](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg)](https://www.cloudflare.com)
 [![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)](https://www.debian.org)
+
+[![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)](https://wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)](https://www.typescriptlang.org)
+[![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)](https://nodejs.org)
+[![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)](https://wikipedia.org/wiki/HTML)
+[![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)](https://wikipedia.org/wiki/CSS)
+[![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)](https://tailwindcss.com)
+[![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)](https://getbootstrap.com)
 
 <details>
   <summary>
@@ -60,9 +60,9 @@ ___
   [![Bash](https://img.shields.io/badge/GNU_Bash-4eaa25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://www.gnu.org/software/bash)
   [![systemd](https://img.shields.io/badge/systemd-30d475.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSI2NC4wMDAzIDc0LjAwMiAxNzEuOTk5NiA1MS45OTk5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxnIHRyYW5zZm9ybT0ibWF0cml4KDEuMzMzMzMwMDM1MjA5NjU1OCwgMCwgMCwgMS4zMzMzMzAwMzUyMDk2NTU4LCAzMC42NjY5OTk4MTY4OTQ1MywgLTExNDEuNDc0OTc1NTg1OTM3NSkiPgogICAgPHBhdGggZD0iTTI1IDkxMS42MXYzOWgxNXYtNmgtOXYtMjdoOXYtNnptMTE0IDB2Nmg5djI3aC05djZoMTV2LTM5eiIgc3R5bGU9ImxpbmUtaGVpZ2h0OiBub3JtYWw7IGZvbnQtdmFyaWFudC1saWdhdHVyZXM6IG5vcm1hbDsgZm9udC12YXJpYW50LXBvc2l0aW9uOiBub3JtYWw7IGZvbnQtdmFyaWFudC1jYXBzOiBub3JtYWw7IGZvbnQtdmFyaWFudC1udW1lcmljOiBub3JtYWw7IGZvbnQtdmFyaWFudC1hbHRlcm5hdGVzOiBub3JtYWw7IGZvbnQtZmVhdHVyZS1zZXR0aW5nczogbm9ybWFsOyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LWFsaWduOiBzdGFydDsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LWRlY29yYXRpb24tc3R5bGU6IHNvbGlkOyB0ZXh0LWRlY29yYXRpb24tY29sb3I6IHJnYigwLCAwLCAwKTsgdGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtb3JpZW50YXRpb246IG1peGVkOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBpc29sYXRpb246IGF1dG87IG1peC1ibGVuZC1tb2RlOiBub3JtYWw7IGZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsiIGNvbG9yPSIjMDAwIiBmb250LXdlaWdodD0iNDAwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgb3ZlcmZsb3c9InZpc2libGUiLz4KICAgIDxwYXRoIGQ9Ik05Mi41IDkzMS4xMWwyNy0xNXYzMHoiIHN0eWxlPSJmaWxsOiByZ2IoMjU1LCAyNTUsIDI1NSk7Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MC4wMDIiIGN5PSI5MzEuMTExIiByPSIxMy41IiBzdHlsZT0iZmlsbDogcmdiKDI1NSwgMjU1LCAyNTUpOyIvPgogIDwvZz4KPC9zdmc+)](https://systemd.io)
   [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)](https://github.com/features/actions)
-  [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078d4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
   [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://cloud.google.com)
   [![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285f4.svg?style=for-the-badge&logo=Google-Apps-Script&logoColor=white)](https://workspace.google.com/products/apps-script)
+  [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078d4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
   [![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)](https://unity.com)
 </details>
 
@@ -77,27 +77,29 @@ ___
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag&layout=donut&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&border_color=d0e7d2&bg_color=618264&border_radius=32"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag,stat112-final&layout=donut&title_color=d0e7d2&text_color=b0d9b1&icon_color=d0e7d2&border_color=d0e7d2&bg_color=618264&border_radius=32"
     media="(prefers-color-scheme: dark)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag&layout=donut&title_color=618264&text_color=79ac78&icon_color=618264&border_color=618264&bg_color=d0e7d2&border_radius=32" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laralove143&exclude_repo=lgbt-flag,stat112-final&layout=donut&title_color=618264&text_color=79ac78&icon_color=618264&border_color=618264&bg_color=d0e7d2&border_radius=32" />
 </picture>
 
 ___
 
 # 💼💼💼💼💼
 
-[Discord](http://discord.com) bots to make your life easier
+HR responsible of [Board of European Students of Technology](https://best.eu.org) IT Department
 
 In the team of [Twilight](https://github.com/twilight-rs/twilight), a Discord library for the [Rust programming language](https://www.rust-lang.org)
-
-HR responsible of [Board of European Students of Technology](https://best.eu.org) IT Department
 
 Past volunteer at [ÜNOG](https://unog.dev), an organization of university student game developers
 
 ___
 
 # 🛠️🛠️🛠️🛠️🛠️
+
+## [Sorter](https://github.com/sorterisntonline)
+
+Hyperoptimal pairwise ranked-choice system available at [sorter.social](https://sorter.social)
 
 ## [Timezoner](https://github.com/laralove143/timezoner)
 
